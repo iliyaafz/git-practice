@@ -11,7 +11,7 @@ int t, n, m, arr[maxn];
 int main() {
     NOT_STONKS;
 
-
+    cout << "Hello world!" << endl;
     return 0;
 }
 
